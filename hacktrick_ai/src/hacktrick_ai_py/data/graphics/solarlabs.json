@@ -1,0 +1,587 @@
+{
+	"textures": [
+		{
+			"image": "solarlabs.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 405,
+				"h": 15
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "solarlab_cooked_laptop_0_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_0_projector_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_0_projector_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 30,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_1_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 45,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_1_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 60,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_1_projector_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 75,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_2_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 90,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_2_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 105,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_cooked_laptop_3_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 120,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_0_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 135,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_0_projector_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 150,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_0_projector_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 165,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_1_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 180,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_1_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 195,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_1_projector_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 210,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_2_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 225,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_2_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 240,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_done_laptop_3_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 9
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 255,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_0_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_0_projector_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_0_projector_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_1_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_1_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_1_projector_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_2_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_2_projector_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "solarlab_idle_laptop_3_projector_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:91c4610da84a001d7ca07209e5408984:ed0a420a2afea27b70489f300027e915:1e4a55a887ecf42c67c9f02537ecf1ec$"
+	}
+}

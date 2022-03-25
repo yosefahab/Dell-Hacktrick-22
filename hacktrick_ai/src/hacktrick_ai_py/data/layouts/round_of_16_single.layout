@@ -1,0 +1,21 @@
+{
+    "grid":  """2XXPXXX
+                X     X
+                X     X
+                X O C X
+                X  1  X
+                X     X
+                XDXTXSX""",
+                
+    "start_bonus_orders": [],
+    "start_all_orders" : [
+        { "ingredients" : ["projector", "solar_cell"]},
+        { "ingredients" : ["projector", "solar_cell", "solar_cell"]},
+        { "ingredients" : ["projector", "projector", "solar_cell", "solar_cell"]},
+        { "ingredients" : ["projector", "solar_cell", "laptop"]},
+        { "ingredients" : ["projector", "solar_cell", "solar_cell", "laptop", "laptop"]},
+    ],
+    "recipe_values" : [20, 30, 40, 40, 70],
+    "recipe_times" : [10, 15, 20, 20, 30],
+    "rew_shaping_params": None
+}

@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+protobuf = "*"
+python-socketio = {version = "==4.6.0", extras = ["asyncio_client"]}
+python-engineio = "==3.13.0"
+tensorflow = "*"
+hacktrick-ai = {editable = true, path = "./hacktrick_ai"}
+hacktrick-rl = {editable = true, path = "./hacktrick_rl"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
